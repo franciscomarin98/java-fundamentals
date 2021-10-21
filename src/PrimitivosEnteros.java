@@ -1,4 +1,4 @@
-public class Primitivos {
+public class PrimitivosEnteros {
     public static void main(String[] args){
 //      Tipos de datos primitivos en Java
 //        boolean  ->  1bit
